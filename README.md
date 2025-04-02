@@ -1,10 +1,10 @@
 # Code Utilities
 All the codes usefull for every language
 
-##JAVA
+## JAVA
 
 
-##PYTHON
+## PYTHON
 
 
-##SQL
+## SQL
